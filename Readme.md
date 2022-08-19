@@ -1,6 +1,6 @@
 # Business Website Landing Page UI
 
-This is the User-Interface of Landing page of a business website designed fully with `HTML` and `CSS`. The Landing page contains:
+This is the User-Interface of Landing page of a business website designed fully with `HTML` and `CSS`. The Landing Page is completely responsive. The Landing page contains:
 
  - Navbar
  - Header
@@ -18,6 +18,7 @@ This is the User-Interface of Landing page of a business website designed fully 
   - Learnt the `Flexbox model` for advanced layout.
   - Learn the `Grid model` for advanced layout.
   - Making the UI beautiful using CSS concepts.
+  - Use of media queries to make websites responsive.
 
 # Languages Used:
  ### HTML and CSS
